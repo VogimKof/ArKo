@@ -1,0 +1,2 @@
+1. W nieskończonej pętli wprowadzaj i wyświetlaj pojedyncze znaki do momentu natrafienia na znak "$" (którego nie wyświetlaj).
+2. Dla z góry zadanego ciągu znaków o długości 20, złożonego z 5 różnych typów znaków (np.: "abcdeabcdeabcdeabcde") usuń dwa wybrane typy znaków (dla "c" i "e" -> "abdabdabdabd").
