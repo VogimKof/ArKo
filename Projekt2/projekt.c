@@ -16,7 +16,7 @@ int main() {
         printf("Podaj wartosc x: ");
         if (scanf("%f", &x) != 1) {
             printf("Niepoprawna wartosc x. Upewnij sie, ze podales liczbe.\n");
-            while (getchar() != '\n'); // Clear the input buffer
+            while (getchar() != '\n'); 
             continue;
         }
         if (x < -FLT_MAX || x > FLT_MAX) {
@@ -27,7 +27,7 @@ int main() {
         printf("Podaj dokladnosc zaokraglenia po przecinku: ");
         if (scanf("%d", &precision) != 1) {
             printf("Niepoprawna wartosc przyblizenia. Upewnij sie, ze podales liczbe calkowita.\n");
-            while (getchar() != '\n'); // Clear the input buffer
+            while (getchar() != '\n'); 
             continue;
         }
         if (precision < 0 || precision > UINT_MAX || -UINT_MAX > precision) {
