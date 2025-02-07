@@ -1,0 +1,8 @@
+1. Dla zadanej zmiennej 3 cyfrowej, 8-mio bitowej, wypisać ją na ekran (jako liczbę), bez użycia pętli
+2. Dla zadanej zmiennej 3 cyfrowej, 8-mio bitowej, wypisać ją na ekran (jako liczbę), w odwrotnej kolejności (123 -> 321), z użyciem pętli.
+3. Dla trzech tablic:
+a) 4-ro elementowej, 1-dno bajtowej
+b) 4-ro elementowej, 2-wu bajtowej
+c) 5-cio elementowej, 2-wu bajtowej
+wyznaczyć matematycznie liczbę elementów tablicy (i wypisać ją na ekran).
+4. Wyznaczyć matematycznie i wypisać na ekran silnię liczby 5.
