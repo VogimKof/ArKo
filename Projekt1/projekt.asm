@@ -1,9 +1,9 @@
-#Napisać program, który pobierze z wejścia łańcuch znaków a na wyjściu wygeneruje z niego odwróconą piramidę wedle przykładu: dla ciągu wejściowego „abc” piramida wyglądać będzie następująco: 
-#aaaaa 
-# bbb 
-#  c 
-#Program powinien zakończyć się po naciśnięciu przez 
-#użytkownika klawisza F10. 
+;Napisać program, który pobierze z wejścia łańcuch znaków a na wyjściu wygeneruje z niego odwróconą piramidę wedle przykładu: dla ciągu wejściowego „abc” piramida wyglądać będzie następująco: 
+;aaaaa 
+; bbb 
+;  c 
+;Program powinien zakończyć się po naciśnięciu przez 
+;użytkownika klawisza F10. 
 
 
 section .data
