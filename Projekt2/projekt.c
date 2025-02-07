@@ -1,3 +1,7 @@
+//Napisz program, który oblicza pierwiastek 3 stopnia z x , gdzie x jest argumentem podanym przez
+//użytkownika, z dokładnością przez niego określoną. 
+
+
 #include <stdio.h>
 
 extern float x_cube_root(float x);
