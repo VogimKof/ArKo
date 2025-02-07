@@ -2,8 +2,7 @@
 ;aaaaa 
 ; bbb 
 ;  c 
-;Program powinien zakończyć się po naciśnięciu przez 
-;użytkownika klawisza F10. 
+;Program powinien zakończyć się po naciśnięciu przez użytkownika klawisza F10. Przewidź sytuacje wyjątkowe.
 
 
 section .data
