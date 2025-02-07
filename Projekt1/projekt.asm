@@ -1,3 +1,11 @@
+#Napisać program, który pobierze z wejścia łańcuch znaków a na wyjściu wygeneruje z niego odwróconą piramidę wedle przykładu: dla ciągu wejściowego „abc” piramida wyglądać będzie następująco: 
+#aaaaa 
+# bbb 
+#  c 
+#Program powinien zakończyć się po naciśnięciu przez 
+#użytkownika klawisza F10. 
+
+
 section .data
     initial_message db "Nacisnij jakikolwiek przycisk aby przejsc dalej lub F10 aby zakonczyc program.", 13, 10, "$"
     prompt db "Podaj lancuch znakowy: $"
