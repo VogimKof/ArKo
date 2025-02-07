@@ -1,0 +1,3 @@
+1. Dla z góry zadanego ciągu znaków, wypisać pojedynczo wszystkie znaki.
+2. Dla tekstu wprowadzonego z klawiatury, wypisać tekst na ekran tyle razy, ile wynosi liczba wprowadzonych znaków.
+3. Dla tekstu wprowadzonego z klawiatury, wypisać pojedynczo wszystkie jego znaki.
