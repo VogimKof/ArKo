@@ -1,0 +1,2 @@
+1. Dla wprowadzanego ciągu znaków, wypisz go od tyłu (wykorzystując stos).
+2. Dla wprowadzonej lub z góry zadanej liczby większej od 9, wypisz ją na ekran (wykorzystując stos).
