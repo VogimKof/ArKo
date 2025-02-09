@@ -1,0 +1,2 @@
+Napisz funkcję w asemblerze, która wyliczy długość stringa, przekazanego z poziomu języka C. 
+Następnie zmodyfikuj funckję process_string tak, by działała na kopii przekazanego stringa zamiast na oryginale.
